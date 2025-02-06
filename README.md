@@ -37,21 +37,6 @@ This project enables seamless integration between WhatsApp messages and Google S
 2. Set up your webhook URL in Twilio or WhatsApp API settings.
 3. Check Google Sheets for logged messages.
 
-## Deployment
-You can deploy this project on:
-- Heroku
-- AWS Lambda
-- Google Cloud Functions
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Sumit Adikari](https://github.com/sumits234)
-
----
-
-### How to Add to GitHub README Section
-Simply copy the contents of this file and paste it into the README section of your GitHub repository.
 
 
